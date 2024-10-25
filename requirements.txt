@@ -1,0 +1,10 @@
+pandas
+numpy
+streamlit
+nltk
+scikit-learn
+flask
+seaborn
+gunicorn
+streamlit-lottie
+-e.

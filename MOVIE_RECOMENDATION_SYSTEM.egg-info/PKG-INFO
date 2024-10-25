@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: MOVIE-RECOMENDATION-SYSTEM
+Version: 1.0
+Author: G.MEGHANSH RAO
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: streamlit
+Requires-Dist: nltk
+Requires-Dist: scikit-learn
+Requires-Dist: flask
+Requires-Dist: seaborn
+Requires-Dist: gunicorn
+Requires-Dist: streamlit-lottie

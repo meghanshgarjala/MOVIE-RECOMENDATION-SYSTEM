@@ -1,0 +1,6 @@
+setup.py
+MOVIE_RECOMENDATION_SYSTEM.egg-info/PKG-INFO
+MOVIE_RECOMENDATION_SYSTEM.egg-info/SOURCES.txt
+MOVIE_RECOMENDATION_SYSTEM.egg-info/dependency_links.txt
+MOVIE_RECOMENDATION_SYSTEM.egg-info/requires.txt
+MOVIE_RECOMENDATION_SYSTEM.egg-info/top_level.txt
